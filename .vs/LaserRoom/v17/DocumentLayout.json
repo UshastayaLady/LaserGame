@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mari\\Progect\\LaserRoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490503DE-6D23-4B39-0F2F-5C8E2750E5B9}|Assembly-CSharp.csproj|c:\\users\\mari\\progect\\laserroom\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490503DE-6D23-4B39-0F2F-5C8E2750E5B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490503DE-6D23-4B39-0F2F-5C8E2750E5B9}|Assembly-CSharp.csproj|C:\\Users\\Mari\\Progect\\LaserRoom\\assets\\scripts\\rotateone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490503DE-6D23-4B39-0F2F-5C8E2750E5B9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotateone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\Progect\\LaserRoom\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "C:\\Users\\Mari\\Progect\\LaserRoom\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:29:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotateOne.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\Progect\\LaserRoom\\Assets\\Scripts\\RotateOne.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateOne.cs",
+              "ToolTip": "C:\\Users\\Mari\\Progect\\LaserRoom\\Assets\\Scripts\\RotateOne.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:28:52.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
