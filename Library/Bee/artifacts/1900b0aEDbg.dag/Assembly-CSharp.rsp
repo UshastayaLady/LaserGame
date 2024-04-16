@@ -355,6 +355,7 @@
 "Assets/Scripts/Laser.cs"
 "Assets/Scripts/LaserGun.cs"
 "Assets/Scripts/RotateOne.cs"
+"Assets/Scripts/Target.cs"
 -langversion:9.0
 
 /deterministic

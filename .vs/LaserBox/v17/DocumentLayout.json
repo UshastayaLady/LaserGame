@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitUnity\\LaserBox\\LaserBox\\",
+  "WorkspaceRootPath": "D:\\UnityProgect\\LaserBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|d:\\gitunity\\laserbox\\laserbox\\assets\\scripts\\rotateone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|d:\\unityprogect\\laserbox\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|d:\\unityprogect\\laserbox\\assets\\scripts\\rotateone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotateone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|d:\\gitunity\\laserbox\\laserbox\\assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|D:\\UnityProgect\\LaserBox\\assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|D:\\GitUnity\\LaserBox\\LaserBox\\assets\\scripts\\lasergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|D:\\UnityProgect\\LaserBox\\assets\\scripts\\lasergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6949B49-249A-BF2D-D44B-8445CD8C1D32}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lasergun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +31,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:30:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RotateOne.cs",
-              "DocumentMoniker": "D:\\GitUnity\\LaserBox\\LaserBox\\Assets\\Scripts\\RotateOne.cs",
+              "DocumentMoniker": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\RotateOne.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RotateOne.cs",
-              "ToolTip": "D:\\GitUnity\\LaserBox\\LaserBox\\Assets\\Scripts\\RotateOne.cs",
+              "ToolTip": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\RotateOne.cs",
               "RelativeToolTip": "Assets\\Scripts\\RotateOne.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,29 +56,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LaserGun.cs",
-              "DocumentMoniker": "D:\\GitUnity\\LaserBox\\LaserBox\\Assets\\Scripts\\LaserGun.cs",
+              "DocumentMoniker": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\LaserGun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LaserGun.cs",
-              "ToolTip": "D:\\GitUnity\\LaserBox\\LaserBox\\Assets\\Scripts\\LaserGun.cs",
+              "ToolTip": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\LaserGun.cs",
               "RelativeToolTip": "Assets\\Scripts\\LaserGun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T12:50:00.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T12:50:00.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Laser.cs",
-              "DocumentMoniker": "D:\\GitUnity\\LaserBox\\LaserBox\\Assets\\Scripts\\Laser.cs",
+              "DocumentMoniker": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\Laser.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Laser.cs",
-              "ToolTip": "D:\\GitUnity\\LaserBox\\LaserBox\\Assets\\Scripts\\Laser.cs",
+              "ToolTip": "D:\\UnityProgect\\LaserBox\\Assets\\Scripts\\Laser.cs",
               "RelativeToolTip": "Assets\\Scripts\\Laser.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAUwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:15:09.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T19:15:09.921Z"
             }
           ]
         }
